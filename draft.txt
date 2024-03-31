@@ -1,0 +1,7 @@
+<html>
+<body>
+	<p class="{random_variable1}"> hello {username} how are you today?</p>
+	<br>
+	<p class="random_variable1"> can you call me? </p>
+</body>
+</html>

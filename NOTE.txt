@@ -1,0 +1,11 @@
+Hello, today I will introduce you to the SMTP mail sender that I wrote myself.
+
+features:
+Thanks to advanced class directories, the spam risk of your e-mails is greatly reduced.
+
+It allows you to send bulk e-mails, and when sending these e-mails, it allows you to send e-mails to each recipient separately.
+
+GITHUB: mhulusi
+
+Hulusi e-mail sender version v1.0
+
